@@ -140,3 +140,9 @@ Final year includes attachment and capstone.
 
 Bootcamp duration is deterministic.
 
+# How to Run
+1. Clone the Repository - git clone https://github.com/your-username/educational-pathway-simulator.git
+cd educational-pathway-simulator
+2. Install Dependencies - pip install streamlit plotly pandas numpy
+3. Run the app - streamlit run app.py
+
